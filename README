@@ -1,0 +1,3 @@
+Installation: 
+
+pip install pandas==2.3.2 matplotlib numpy==1.26.4 matminer==0.9.3 scikit-learn jupyter==1.1.1 tensorflow
