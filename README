@@ -1,3 +1,13 @@
 Installation: 
 
 pip install pandas matplotlib numpy matminer==0.9.3 scikit-learn jupyter tensorflow
+
+
+For Colab: 
+
+Add a first cell with: 
+
+!pip install pandas matplotlib numpy matminer==0.9.3 scikit-learn jupyter tensorflow
+!git clone http://www.github.com/arthurfl/TP_EAIFR_ML_2026
+
+If needed, prefix paths with "TP_EAIFR_ML_2026/"
